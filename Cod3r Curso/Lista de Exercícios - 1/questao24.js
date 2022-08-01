@@ -10,3 +10,10 @@ while (i <= 11)
     console.log(`Hello World`)
     i++;
 }
+
+console.log("------------")
+
+for (i = 0; i <= 11; i++)
+{
+    console.log(`Hello World`)
+}
